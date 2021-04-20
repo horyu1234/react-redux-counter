@@ -1,11 +1,11 @@
 import React from "react";
 
-const Counter = () => {
+const Counter = ({number, onIncrease, onDecrease}) => {
     return (
         <div>
-            <h1>여기엔 숫자를 담자</h1>
-            <button>+ 1</button>
-            <button>- 1</button>
+            <h1>{number}</h1>
+            <button onClick={onIncrease}>+ 1</button>
+            <button onClick={onDecrease}>- 1</button>
         </div>
     );
 };
