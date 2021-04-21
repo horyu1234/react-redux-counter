@@ -1,7 +1,10 @@
 **React Redux 를 학습하기 위한 Counter 프로젝트입니다.**
 
 **다음 글을 보고 실습을 진행하였습니다.**
+
 https://velog.io/@jeffyoun/React-Redux-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%EC%A0%95%EB%A6%AC
+
+https://velopert.com/3401
 
 ---
 
